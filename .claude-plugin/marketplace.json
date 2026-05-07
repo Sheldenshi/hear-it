@@ -1,0 +1,14 @@
+{
+  "name": "shelden",
+  "owner": {
+    "name": "shelden"
+  },
+  "plugins": [
+    {
+      "name": "hear-it",
+      "source": "./",
+      "description": "Plays a mechanical-keyboard typing sound while Claude Code edits files (macOS).",
+      "version": "0.1.0"
+    }
+  ]
+}

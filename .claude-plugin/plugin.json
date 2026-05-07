@@ -1,0 +1,8 @@
+{
+  "name": "hear-it",
+  "version": "0.1.0",
+  "description": "Plays a mechanical-keyboard typing sound while Claude Code edits files (macOS).",
+  "author": {
+    "name": "shelden"
+  }
+}
