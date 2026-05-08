@@ -11,8 +11,8 @@ length).
 ## Install
 
 ```
-/plugin marketplace add <owner>/hear-it
-/plugin install hear-it@shelden
+/plugin marketplace add Sheldenshi/hear-it
+/plugin install hear-it@sheldenshi
 /reload-plugins
 ```
 
@@ -21,7 +21,7 @@ Or from a local clone:
 ```
 git clone https://github.com/<owner>/hear-it.git
 /plugin marketplace add /absolute/path/to/hear-it
-/plugin install hear-it@shelden
+/plugin install hear-it@sheldenshi
 /reload-plugins
 ```
 
